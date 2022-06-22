@@ -1,0 +1,9 @@
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\bin\Debug\TSP Optimization.exe.config
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\bin\Debug\TSP Optimization.exe
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\bin\Debug\TSP Optimization.pdb
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\obj\Debug\TSP Optimization.csprojAssemblyReference.cache
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\obj\Debug\TSP_Optimization.Properties.Resources.resources
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\obj\Debug\TSP Optimization.csproj.GenerateResource.cache
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\obj\Debug\TSP Optimization.exe
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\obj\Debug\TSP Optimization.pdb
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Swarm algoritmi\TSP Optimization\TSP Optimization\obj\Debug\TSP_Optimization.tsp_optimization.resources

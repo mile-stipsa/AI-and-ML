@@ -1,0 +1,18 @@
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\formMain.resx
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\formMain.cs
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\formMain.Designer.cs
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\Obrada slike i videa.exe.config
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\Obrada slike i videa.exe
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\Obrada slike i videa.pdb
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\Emgu.CV.World.dll
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\Emgu.CV.World.xml
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\obj\Debug\Obrada slike i videa.csprojAssemblyReference.cache
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\obj\Debug\Obrada_slike_i_videa.formMain.resources
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\obj\Debug\Obrada_slike_i_videa.Properties.Resources.resources
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\obj\Debug\Obrada slike i videa.csproj.GenerateResource.cache
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\obj\Debug\Obrada slike i videa.csproj.CopyComplete
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\obj\Debug\Obrada slike i videa.exe
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\obj\Debug\Obrada slike i videa.pdb
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\Emgu.CV.UI.dll
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\ZedGraph.dll
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Obrada slike i videa\Obrada slike i videa\Obrada slike i videa\bin\Debug\Emgu.CV.UI.xml

@@ -1,0 +1,9 @@
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\bin\Debug\Generisanje fraze.exe.config
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\bin\Debug\Generisanje fraze.exe
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\bin\Debug\Generisanje fraze.pdb
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\obj\Debug\Generisanje fraze.csprojAssemblyReference.cache
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\obj\Debug\Generisanje_fraze.Properties.Resources.resources
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\obj\Debug\Generisanje fraze.csproj.GenerateResource.cache
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\obj\Debug\Generisanje fraze.exe
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\obj\Debug\Generisanje fraze.pdb
+E:\ELFAK\MAS\I semestar\Inteligentni sistemi\Domaci zadaci\Genetski algoritmi\Generisanje fraze\Generisanje fraze\obj\Debug\Generisanje_fraze.frmMain.resources
